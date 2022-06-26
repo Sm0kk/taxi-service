@@ -44,3 +44,5 @@ A simple web-application that suports authentication, registration and other CRU
 - add and configure Tomcat to your project. 
 - Run
 ```
+
+*If you have any questions or suggestions please [contact](https://t.me/sm0kk) me*
