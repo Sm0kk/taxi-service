@@ -6,6 +6,7 @@ A simple web-application that suports authentication, registration and other CRU
 👀 You can watch it [**here**](https://lit-falls-26652.herokuapp.com)
  
 ### 🔮 Features:
+```
 - registration like a driver;
 - authentication like a driver;
 - create/update/remove a driver;
@@ -15,6 +16,7 @@ A simple web-application that suports authentication, registration and other CRU
 - delete the driver from the car;
 - display a list of cars for the currently logged driver;
 - display a list of all drivers/manufacturers/cars;
+```
 
 ### 🕋 Project structure
 - **DB diagram**
@@ -23,6 +25,7 @@ A simple web-application that suports authentication, registration and other CRU
 ![http://joxi.ru/LmGYJLxcBvQxXA](http://joxi.ru/LmGYJLxcBvQxXA.jpg)
 
 ### 💻 Used technology:
+```
 - JDK 11
 - Maven
 - JDBC
@@ -31,10 +34,13 @@ A simple web-application that suports authentication, registration and other CRU
 - Tomcat 9.0.50
 - JSTL
 - JSP
+```
 
 ### 🖥️ Run Locally
+```
 - please clone this project into your repo
 - create database shema (you can use **init_db.sql** file from resources directory)
 - configure the settings for connection to your db in the ConnectionUtil calss
 - add and configure Tomcat to your project. 
 - Run
+```
